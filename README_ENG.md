@@ -7,6 +7,10 @@ Volatility and Risk-Reward – Is It Worth Choosing More Volatile S&P 500 Stocks
 </div>
 
 ________________________________________
+Full analysis: https://dnarynkow.pl/wieksze-ryzyko-daje-wieksze-zyski-sprawdzilismy-20-lat-danych-z-rynku-akcji-i-wynik-zaskakuje/
+
+Youtube: https://www.youtube.com/watch?v=Hl0QJQOztUs&t=805s
+
 Problem Description:
 
 • The aim of the study is to compare the most and least volatile S&P 500 stocks over the period 2005–2024, in order to determine whether “riskier” stocks provide statistically higher returns.
