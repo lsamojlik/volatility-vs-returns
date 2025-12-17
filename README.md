@@ -7,6 +7,10 @@ Zmienność a risk reward - czy warto wybierać bardziej zmienne spółki w S&P 
 </div>
 
 ________________________________________
+Pełna analiza: https://dnarynkow.pl/wieksze-ryzyko-daje-wieksze-zyski-sprawdzilismy-20-lat-danych-z-rynku-akcji-i-wynik-zaskakuje/
+
+Youtube: https://www.youtube.com/watch?v=Hl0QJQOztUs&t=805s
+
 Opis problemu:
 
 •	Celem badania jest porównanie najbardziej zmiennych i najmniej zmiennych spółek z indeksu S&P 500 w okresie 2005-2024 i tym samym sprawdzenie, czy spółki bardziej „ryzykowne” dają statystycznie wyższe stopy zwrotu.
